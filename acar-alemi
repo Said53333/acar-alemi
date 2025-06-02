@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Açar Aləmi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #0077b6;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #023e8a;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+    }
+    section {
+      padding: 20px;
+      background-color: white;
+      margin: 20px;
+      border-radius: 8px;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background-color: #0077b6;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Açar Aləmi</h1>
+  <p>Alətlər dünyası — keyfiyyətli və sərfəli</p>
+</header>
+
+<nav>
+  <a href="#about">Haqqımızda</a>
+  <a href="#products">Təkliflər</a>
+  <a href="#contact">Əlaqə</a>
+</nav>
+
+<section id="about">
+  <h2>Haqqımızda</h2>
+  <p>"Açar Aləmi" — Bakı şəhərində yerləşən alətlər mağazasıdır. Biz sizə peşəkar və məişət üçün lazım olan açarlar, tornavidalar və digər əl alətlərini təklif edirik.</p>
+</section>
+
+<section id="products">
+  <h2>Təkliflər</h2>
+  <ul>
+    <li>🔧 Universal açar — 5 AZN</li>
+    <li>🔨 Çəkic (250g) — 4 AZN</li>
+    <li>🪛 Tornavida dəsti (6 ədəd) — 10 AZN</li>
+  </ul>
+</section>
+
+<section id="contact">
+  <h2>Əlaqə</h2>
+  <p>📍 Ünvan: Bakı, Nəsimi rayonu</p>
+  <p>📞 Telefon: +994 55 123 45 67</p>
+  <p>✉️ Email: info@acarlami.az</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Açar Aləmi. Bütün hüquqlar qorunur.</p>
+</footer>
+
+</body>
+</html>
